@@ -2,7 +2,7 @@
 
 ## O nas
 Cześć!👋<br>
-Jesteśmy kołem naukowym pochodzącym z PWr. Zajmujemy się tworzeniem nowych języków programowania oraz nauką tego jak działają już istniejące.
+Jesteśmy kołem naukowym pochodzącym z PWr (póki co nieoficjalnym. Planowany czas oficjalnego startu to pażdziernik 2025). Zajmujemy się tworzeniem nowych języków programowania oraz nauką tego jak działają już istniejące.
 Działamy od 2025 roku (tak, dopiero powstaliśmy, dlatego nie ma jeszcze żadnych projektów, ale niedługo się pojawią).
 
 ## Nasz zespół
